@@ -52,7 +52,7 @@ Follow these instructions to set up and run the project locally.
    Start by cloning the repository to your local machine:
 
    ```
-   git clone [https://github.com/ArmanWain/react-native-uber-clone.git]
+   git clone https://github.com/ArmanWain/react-native-uber-clone.git
    cd react-native-uber-clone
    ```
 
